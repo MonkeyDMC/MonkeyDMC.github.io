@@ -47,7 +47,7 @@ style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" tit
 				<header>
 					<h1 class="btn btn-dark">Ковенанты в World of Warcraft Shadowlands </h1>
 					<footer>
-					<p class="btn btn-dark">Выполнил Пятаков Д.И.</a></p>
+					<p class="btn btn-dark"><a>Выполнил Пятаков Д.И.</a></p>
 					</footer>
 				</header>
 				<footer>
