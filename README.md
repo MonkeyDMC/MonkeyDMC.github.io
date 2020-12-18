@@ -1,6 +1,7 @@
 # MonkeyDMC.github.io
+Мой первый хостинг
 
-<!DOCTYPE HTML>
+!DOCTYPE HTML>
 <html>
 	<head>
 		<title>Ковенанты в World of Warcraft Shadowlands</title>
