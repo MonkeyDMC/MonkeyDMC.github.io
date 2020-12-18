@@ -30,14 +30,13 @@ style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" tit
 	</head>
 	
 	<body class="is-preload">
-	 <!--Крошки - Укажите местоположение текущей страницы в навигационной иерархии, 
-	 которая автоматически добавляет разделители через CSS--
-	 >
+<!--Крошки - Укажите местоположение текущей страницы в навигационной иерархии, 
+	 которая автоматически добавляет разделители через CSS-->
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a href="#">Home</a></li>
     <li class="breadcrumb-item"><a href="#banner">Banner</a></li>
-    <li class="breadcrumb-item" ><a href="#opis">Пиццы</a></li>
+    <li class="breadcrumb-item" ><a href="#opis">Информация</a></li>
 	<li class="breadcrumb-item" ><a href="#dopol">Дополнительно</a></li>
     <li class="breadcrumb-item" ><a href="#otziv">Отзыв</a></li>
   </ol>
@@ -104,15 +103,13 @@ style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" tit
 						</header>
 			</section>
 						</article>
-	
 		<!-- Карточки - Карточки Bootstrap предоставляют собой гибкий и расширяемый 
 		контейнер контента с несколькими вариантами и опциями. (Группа карточек)-->
 			<article id="opis" class="container box style2">
 				<header>
 					<div class="container">
 					 <center><h3>Описание ковенантов и их предназначение в тёмных землях</h3></center>
-			        </div>
-				
+			        </div>				
              <div class="row row-cols-1 row-cols-md-4">
   <div class="col mb-4">
     <div class="card">
@@ -199,7 +196,7 @@ style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" tit
   </div>
 </div>
 <div class="btn-group">
-  <button type="button" class="btn btn-success"" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <button type="button" class="btn btn-success" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
     Медиумы ковенантов
   </button>
   <div class="dropdown-menu">
@@ -231,8 +228,7 @@ style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" tit
 						</div>
 					</div>
 				</form>
-			</article>
-		
+			</article>	
 			<section id="footer">
 				<div class="copyright">
 					<ul class="menu">
@@ -255,7 +251,6 @@ style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" tit
 					</ul>
 				</div>
 			</section>
-
 	</body>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
